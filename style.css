@@ -149,7 +149,7 @@ input[type="submit"]:active {
   text-decoration: none;
 }
 .links a:hover,
-.links a:nth-child() {
+.links a:nth-child(1) {
   color: #45f3ff;
 }
 .links a:nth-child(2) {
